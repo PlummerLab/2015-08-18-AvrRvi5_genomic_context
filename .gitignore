@@ -60,11 +60,11 @@ target/
 .temp
 
 data/*
-!data/summary.DNA-seq.RNA-seq.csv
+#!data/summary.DNA-seq.RNA-seq.csv
 
 *.fasta
-*.txt
-*.csv
+#*.txt
+#*.csv
 *.gff3
 *.gff
 *.fa
